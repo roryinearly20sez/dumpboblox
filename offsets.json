@@ -1,0 +1,31 @@
+{
+  "version": "version-6776addb8fbc4d17",
+  "dump_time": "2026-03-26 01:32:43",
+  "source": "YuB-X 2.1.7V + centrum auto-dumper",
+
+  "offsets": {
+    "VisualEnginePointer":      "0x7838708",
+    "FakeDataModelPointer":     "0x795A0D8",
+    "FakeDataModelToDataModel": "0x1C0",
+    "TaskSchedulerPointer":     "0x7A08710",
+    "TaskSchedulerMaxFPS":      "0xB0",
+    "JobStart":                 "0xC8",
+    "JobEnd":                   "0xD0",
+
+    "Name":                     "0xB0",
+    "Parent":                   "0x80",
+    "Children":                 "0x70",
+    "ChildrenEnd":              "0x78",
+    "ClassDescriptor":          "0x8",
+    "LocalPlayer":              "0x130",
+    "PlaceId":                  "0x198",
+    "GameLoaded":               "0x600",
+    "UserId":                   "0x2D8",
+
+    "VisualEngineToDataModel1": "0xA40",
+    "VisualEngineToDataModel2": "0x1C0",
+
+    "MouseSensitivity":         "0x7B2EE10",
+    "Camera":                   "0x490"
+  }
+}
