@@ -17,6 +17,7 @@
     "Children":                 "0x70",
     "ChildrenEnd":              "0x78",
     "ClassDescriptor":          "0x8",
+    "ClassDescriptorToClassName": "0x8",
     "LocalPlayer":              "0x130",
     "PlaceId":                  "0x198",
     "GameLoaded":               "0x600",
@@ -25,7 +26,20 @@
     "VisualEngineToDataModel1": "0xA40",
     "VisualEngineToDataModel2": "0x1C0",
 
+    "Camera":                   "0x490",
+    "CFrame":                   "0xC0",
+    "FOV":                      "0x160",
+    "Health":                   "0x194",
+    "MaxHealth":                "0x1B4",
+    "WalkSpeed":                "0x1D4",
+    "JumpPower":                "0x1B0",
+    "HipHeight":                "0x1A0",
+    "Position":                 "0xE4",
+    "Velocity":                 "0xF0",
+    "Primitive":                "0x148",
+    "HumanoidState":            "0x898",
     "MouseSensitivity":         "0x7B2EE10",
-    "Camera":                   "0x490"
+    "ViewportSize":             "0x2E8",
+    "viewmatrix":               "0x130"
   }
 }
